@@ -5,7 +5,8 @@ iPhone Deals Bot — Telegram-бот, який шукає iPhone дешевше 
 
 Джерела:  OLX (без ключів)  +  eBay (опційно, якщо задані EBAY_CLIENT_ID / EBAY_CLIENT_SECRET)
 «Ринок»:  медіана цін схожих оголошень (модель + пам'ять + стан) за останні 14 днів.
-Запуск:   BOT_TOKEN=... python main.py
+Запуск:   9122853889:AAEnuXtgUxzEwhCpB6X4bUoZ9Bfe7fndBuc
+=... python main.py
 """
 from __future__ import annotations
 
